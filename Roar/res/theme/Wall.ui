@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Wall" cloudDestinationProperty="Wall" layout="BoxLayout" boxLayoutAxis="Y" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="The Wall of Roars" >
+  </component>
+  <component type="Button" name="navRoarButton" cloudDestinationProperty="Button2" commandName="I want to Roar!" commandId="2" commandAction="Main" commandBack="false" text="I want to Roar!" >
+  </component>
+  <component type="Button" name="refreshButton" cloudDestinationProperty="Button1" text="Refresh" >
+  </component>
+</component>
