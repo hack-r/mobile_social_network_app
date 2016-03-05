@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <component type="Form" name="Main" cloudDestinationProperty="Main" layout="BoxLayout" boxLayoutAxis="Y" title="What is your Roar today?" >
-  <component type="TextField" name="TextField" cloudBoundProperty="text" cloudDestinationProperty="TextField" text="Roooar" >
+  <component type="TextArea" name="TextArea" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="Type your Roar here..." >
   </component>
   <component type="Button" name="submitRoar" cloudDestinationProperty="Button" text="Roar!" >
   </component>
